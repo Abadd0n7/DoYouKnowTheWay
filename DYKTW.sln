@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYKTW.Plugins", "DYKTW.Plugins.csproj", "{656795F2-5247-0E7B-3228-B3BEF7A83AB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYKTW", "DYKTW.csproj", "{890918F0-52D3-BEEA-ED19-5C525D6E5204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DYKTW.Editor.Plugins", "DYKTW.Editor.Plugins.csproj", "{2634366D-618B-0609-54D4-A1D05F75A810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{656795F2-5247-0E7B-3228-B3BEF7A83AB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656795F2-5247-0E7B-3228-B3BEF7A83AB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656795F2-5247-0E7B-3228-B3BEF7A83AB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656795F2-5247-0E7B-3228-B3BEF7A83AB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890918F0-52D3-BEEA-ED19-5C525D6E5204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890918F0-52D3-BEEA-ED19-5C525D6E5204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890918F0-52D3-BEEA-ED19-5C525D6E5204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890918F0-52D3-BEEA-ED19-5C525D6E5204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2634366D-618B-0609-54D4-A1D05F75A810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2634366D-618B-0609-54D4-A1D05F75A810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2634366D-618B-0609-54D4-A1D05F75A810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2634366D-618B-0609-54D4-A1D05F75A810}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
